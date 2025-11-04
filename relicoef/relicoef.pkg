@@ -1,0 +1,4 @@
+D 'relicoef': Raykov's factor reliability coefficient Use relicoef With STATA 19
+D
+F relicoef.ado
+F relicoef.sthlp

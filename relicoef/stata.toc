@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p relicoef Raykov's factor reliability coefficient Use relicoef With STATA 19

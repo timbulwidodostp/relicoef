@@ -1,6 +1,8 @@
 # relicoef
 Raykov's factor reliability coefficient Use relicoef With STATA 19
 
+https://www.youtube.com/watch?v=bhZD5xfF4D0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
